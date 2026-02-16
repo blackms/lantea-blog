@@ -1,0 +1,7 @@
+title: "Lantea Blog"
+description: "Pillole di filosofia fantasy"
+lang: "it"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
